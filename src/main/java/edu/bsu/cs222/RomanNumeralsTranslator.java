@@ -1,6 +1,6 @@
 package edu.bsu.cs222;
 
-public class RomanNumerals {
+public class RomanNumeralsTranslator {
     public String romanNumeralsTranslator(int number){
         System.out.println("Integer: " + number);
         int[] values = {1000,900,500,400,100,90,50,40,10,9,5,4,1};

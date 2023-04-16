@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dad93f7-7803-47a0-a4ac-6aeda91d2e30" name="Changes" comment="Added the code">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/bsu/cs222/NumberTranslatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bsu/cs222/NumberTranslator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bsu/cs222/RomanNumerals.java" afterDir="false" />
+    <list default="true" id="9dad93f7-7803-47a0-a4ac-6aeda91d2e30" name="Changes" comment="Pushed unversioned files">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bsu/cs222/NumberTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bsu/cs222/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bsu/cs222/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bsu/cs222/RomanNumeralsTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/bsu/cs222/NumberTranslatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/bsu/cs222/RomanNumeralsTranslatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +45,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Gradle.NumberTranslatorTest">
-    <configuration name="NumberTranslator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.bsu.cs222.NumberTranslator" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.bsu.cs222.Main" />
       <module name="Optimas.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,7 +102,7 @@
       <list>
         <item itemvalue="Gradle.NumberTranslatorTest" />
         <item itemvalue="Gradle.NumberTranslatorTest.testNumberOne" />
-        <item itemvalue="Application.NumberTranslator" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681663208856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Tests for several important possible inputs and checked that they passed">
+      <created>1681667708087</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681667708087</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pushed unversioned files">
+      <created>1681667740392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681667740392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +160,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed project not showing files" />
     <MESSAGE value="Added the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the code" />
+    <MESSAGE value="Added Tests for several important possible inputs and checked that they passed" />
+    <MESSAGE value="Pushed unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushed unversioned files" />
   </component>
 </project>
