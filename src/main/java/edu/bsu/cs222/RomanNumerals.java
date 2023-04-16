@@ -1,3 +1,5 @@
+package edu.bsu.cs222;
+
 public class RomanNumerals {
     public String romanNumeralsTranslator(int number){
         System.out.println("Integer: " + number);
