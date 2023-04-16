@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs222.NumberTranslatorTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2023-04-16T17:53:38" hostname="NathanielsMBP2" time="0.024">
+  <properties/>
+  <testcase name="testNumberOne()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.011"/>
+  <testcase name="testNumberTen()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.001"/>
+  <testcase name="testNumberComplexHundreds()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.001"/>
+  <testcase name="testNumberFive()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberFour()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberNine()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberFourHundred()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberComplexTens()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.001"/>
+  <testcase name="testNumberComplexThousands()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.001"/>
+  <testcase name="testNumberFifty()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberForty()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberOneThousand()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberOneHundred()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.001"/>
+  <testcase name="testNumberFiveHundred()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <testcase name="testNumberNineHundred()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.001"/>
+  <testcase name="testNumberNinety()" classname="edu.bsu.cs222.NumberTranslatorTest" time="0.0"/>
+  <system-out><![CDATA[Integer: 1
+Integer: 10
+Integer: 994
+Integer: 5
+Integer: 4
+Integer: 9
+Integer: 400
+Integer: 47
+Integer: 2489
+Integer: 50
+Integer: 40
+Integer: 1000
+Integer: 100
+Integer: 500
+Integer: 900
+Integer: 90
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
